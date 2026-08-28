@@ -11,7 +11,7 @@
   --body-muted: #4c463d;
   --body-soft: #5a5348;
   --meta: #6a6357;
-  --meta-soft: #8a8071;
+  --meta-soft: #6e665a;
   --paper: #fbf8f3;
   --paper-warm: #f2ece1;
   --paper-white: #fff;
@@ -20,7 +20,7 @@
 
   --gold: #c8922f;
   --gold-light: #e8b552;
-  --gold-deep: #a07a26;
+  --gold-deep: #80621e;
   --gold-btn-top: #e2ae49;
   --gold-btn-bottom: #b47c22;
 
@@ -48,8 +48,8 @@
   --on-dark-4: #c3b9a9;
   --on-dark-5: #a99e8c;
   --on-dark-6: #a2977f;
-  --on-dark-7: #7d7365;
-  --on-dark-8: #6b6152;
+  --on-dark-7: #90887c;
+  --on-dark-8: #90887c;
 
   --warm-1: #fff8ec;
   --warm-2: #f7e6cd;
@@ -1354,7 +1354,8 @@ h1, h2, h3, p { margin: 0; }
   background: transparent;
   color: var(--on-dark-4);
   font-size: 10.8px;
-  padding: 10px 15px;
+  padding: 13px 16px;
+  min-height: 44px;
   border-radius: 999px;
   cursor: pointer;
   font-family: inherit;
